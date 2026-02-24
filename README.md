@@ -26,12 +26,9 @@ My recent work focuses on:
 
 ---
 
-## Current Projects
+## Past Projects
 
-- `agentic-risk-detection-system`
-- `multi-agent-workflow-automation`
-- `ai-systems-playbook`
-- `llm-evaluation-framework`
+- `agentic-Spine-MRI-Analysis`
 
 ---
 
